@@ -1,0 +1,1295 @@
+{
+  "s0101m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Dīgha Nikāya > Sīlakkhandhavaggapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0101a.att.xml",
+    "t": "s0101t.tik.xml"
+  },
+  "s0102m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Dīgha Nikāya > Mahāvaggapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0102a.att.xml",
+    "t": "s0102t.tik.xml"
+  },
+  "s0103m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Dīgha Nikāya > Pāthikavaggapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0103a.att.xml",
+    "t": "s0103t.tik.xml"
+  },
+  "s0201m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Majjhima Nikāya > Mūlapaṇṇāsapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0201a.att.xml",
+    "t": "s0201t.tik.xml"
+  },
+  "s0202m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Majjhima Nikāya > Majjhimapaṇṇāsapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0202a.att.xml",
+    "t": "s0202t.tik.xml"
+  },
+  "s0203m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Majjhima Nikāya > Uparipaṇṇāsapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0203a.att.xml",
+    "t": "s0203t.tik.xml"
+  },
+  "s0301m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Saṃyutta Nikāya > Sagāthāvaggapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0301a.att.xml",
+    "t": "s0301t.tik.xml"
+  },
+  "s0302m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Saṃyutta Nikāya > Nidānavaggapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0302a.att.xml",
+    "t": "s0302t.tik.xml"
+  },
+  "s0303m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Saṃyutta Nikāya > Khandhavaggapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0303a.att.xml",
+    "t": "s0303t.tik.xml"
+  },
+  "s0304m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Saṃyutta Nikāya > Saḷāyatanavaggapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0304a.att.xml",
+    "t": "s0304t.tik.xml"
+  },
+  "s0305m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Saṃyutta Nikāya > Mahāvaggapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0305a.att.xml",
+    "t": "s0305t.tik.xml"
+  },
+  "s0401m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Aṅguttara Nikāya > Ekakanipātapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0401a.att.xml",
+    "t": "s0401t.tik.xml"
+  },
+  "s0402m1.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Aṅguttara Nikāya > Dukanipātapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0402a.att.xml",
+    "t": "s0402t.tik.xml"
+  },
+  "s0402m2.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Aṅguttara Nikāya > Tikanipātapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0402a.att.xml",
+    "t": "s0402t.tik.xml"
+  },
+  "s0402m3.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Aṅguttara Nikāya > Catukkanipātapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0402a.att.xml",
+    "t": "s0402t.tik.xml"
+  },
+  "s0403m1.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Aṅguttara Nikāya > Pañcakanipātapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0403a.att.xml",
+    "t": "s0403t.tik.xml"
+  },
+  "s0403m2.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Aṅguttara Nikāya > Chakkanipātapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0403a.att.xml",
+    "t": "s0403t.tik.xml"
+  },
+  "s0403m3.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Aṅguttara Nikāya > Sattakanipātapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0403a.att.xml",
+    "t": "s0403t.tik.xml"
+  },
+  "s0404m1.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Aṅguttara Nikāya > Aṭṭhakanipātapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0404a.att.xml",
+    "t": "s0404t.tik.xml"
+  },
+  "s0404m2.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Aṅguttara Nikāya > Navakanipātapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0404a.att.xml",
+    "t": "s0404t.tik.xml"
+  },
+  "s0404m3.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Aṅguttara Nikāya > Dasakanipātapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0404a.att.xml",
+    "t": "s0404t.tik.xml"
+  },
+  "s0404m4.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Aṅguttara Nikāya > Ekādasakanipātapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "s0404a.att.xml",
+    "t": "s0404t.tik.xml"
+  },
+  "s0501m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Khuddakapāṭhapāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0501a.att.xml"
+  },
+  "s0502m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Dhammapadapāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0502a.att.xml"
+  },
+  "s0503m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Udānapāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0503a.att.xml"
+  },
+  "s0504m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Itivuttakapāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0504a.att.xml"
+  },
+  "s0505m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Suttanipātapāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0505a.att.xml"
+  },
+  "s0506m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Vimānavatthupāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0506a.att.xml"
+  },
+  "s0507m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Petavatthupāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0507a.att.xml"
+  },
+  "s0508m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Theragāthāpāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0508a1.att.xml"
+  },
+  "s0509m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Therīgāthāpāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0509a.att.xml"
+  },
+  "s0510m1.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Apadānapāḷi-1",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0510a.att.xml"
+  },
+  "s0510m2.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Apadānapāḷi-2",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0510a.att.xml"
+  },
+  "s0511m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Buddhavaṃsapāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0511a.att.xml"
+  },
+  "s0512m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Cariyāpiṭakapāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0512a.att.xml"
+  },
+  "s0513m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Jātakapāḷi-1",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0513a1.att.xml"
+  },
+  "s0514m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Jātakapāḷi-2",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0514a1.att.xml"
+  },
+  "s0515m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Mahāniddesapāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0515a.att.xml"
+  },
+  "s0516m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Cūḷaniddesapāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0516a.att.xml"
+  },
+  "s0517m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Paṭisambhidāmaggapāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0517a.att.xml"
+  },
+  "s0519m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Nettippakaraṇapāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "s0519a.att.xml"
+  },
+  "s0518m.nrf.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Milindapañhapāḷi",
+    "matn": "Mula",
+    "y": ""
+  },
+  "s0520m.nrf.xml": {
+    "title": "Tipiṭaka (mūla) > Sutta Piṭaka > Khuddaka Nikāya > Peṭakopadesapāḷi",
+    "matn": "Mula",
+    "y": ""
+  },
+  "vin01m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Vinaya Piṭaka > Pārājikapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "vin01a.att.xml",
+    "t": "vin01t1.tik.xml"
+  },
+  "vin02m1.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Vinaya Piṭaka > Pācittiyapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "vin02a1.att.xml",
+    "t": "vin02t.tik.xml"
+  },
+  "vin02m2.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Vinaya Piṭaka > Mahāvaggapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "vin02a2.att.xml",
+    "t": "vin02t.tik.xml"
+  },
+  "vin02m3.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Vinaya Piṭaka > Cūḷavaggapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "vin02a3.att.xml",
+    "t": "vin02t.tik.xml"
+  },
+  "vin02m4.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Vinaya Piṭaka > Parivārapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "vin02a4.att.xml",
+    "t": "vin02t.tik.xml"
+  },
+  "abh01m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Abhidhamma Piṭaka > Dhammasaṅgaṇīpāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "abh01a.att.xml"
+  },
+  "abh02m.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Abhidhamma Piṭaka > Vibhaṅgapāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "abh02a.att.xml",
+    "t": "abh02t.tik.xml"
+  },
+  "abh03m1.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Abhidhamma Piṭaka > Dhātukathāpāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "abh03a.att.xml",
+    "t": "abh03t.tik.xml"
+  },
+  "abh03m2.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Abhidhamma Piṭaka > Puggalapaññattipāḷi",
+    "matn": "Mula",
+    "y": "at",
+    "a": "abh03a.att.xml",
+    "t": "abh03t.tik.xml"
+  },
+  "abh03m3.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Abhidhamma Piṭaka > Kathāvatthupāḷi",
+    "matn": "Mula",
+    "y": "a",
+    "a": "abh03a.att.xml"
+  },
+  "abh03m4.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Abhidhamma Piṭaka > Yamakapāḷi-1",
+    "matn": "Mula",
+    "y": "at",
+    "a": "abh03a.att.xml",
+    "t": "abh03t.tik.xml"
+  },
+  "abh03m5.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Abhidhamma Piṭaka > Yamakapāḷi-2",
+    "matn": "Mula",
+    "y": "at",
+    "a": "abh03a.att.xml",
+    "t": "abh03t.tik.xml"
+  },
+  "abh03m6.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Abhidhamma Piṭaka > Yamakapāḷi-3",
+    "matn": "Mula",
+    "y": "at",
+    "a": "abh03a.att.xml",
+    "t": "abh03t.tik.xml"
+  },
+  "abh03m7.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Abhidhamma Piṭaka > Paṭṭhānapāḷi-1",
+    "matn": "Mula",
+    "y": "a",
+    "a": "abh03a.att.xml"
+  },
+  "abh03m8.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Abhidhamma Piṭaka > Paṭṭhānapāḷi-2",
+    "matn": "Mula",
+    "y": "at",
+    "a": "abh03a.att.xml",
+    "t": "abh03t.tik.xml"
+  },
+  "abh03m9.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Abhidhamma Piṭaka > Paṭṭhānapāḷi-3",
+    "matn": "Mula",
+    "y": "at",
+    "a": "abh03a.att.xml",
+    "t": "abh03t.tik.xml"
+  },
+  "abh03m10.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Abhidhamma Piṭaka > Paṭṭhānapāḷi-4",
+    "matn": "Mula",
+    "y": "a",
+    "a": "abh03a.att.xml"
+  },
+  "abh03m11.mul.xml": {
+    "title": "Tipiṭaka (mūla) > Abhidhamma Piṭaka > Paṭṭhānapāḷi-5",
+    "matn": "Mula",
+    "y": "at",
+    "a": "abh03a.att.xml",
+    "t": "abh03t.tik.xml"
+  },
+  "s0101a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Dīgha Nikāya (aṭṭhakathā) > Sīlakkhandhavagga-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "s0101m.mul.xml",
+    "t": "s0101t.tik.xml"
+  },
+  "s0102a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Dīgha Nikāya (aṭṭhakathā) > Mahāvagga-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "s0102m.mul.xml",
+    "t": "s0102t.tik.xml"
+  },
+  "s0103a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Dīgha Nikāya (aṭṭhakathā) > Pāthikavagga-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "s0103m.mul.xml",
+    "t": "s0103t.tik.xml"
+  },
+  "s0201a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Majjhima Nikāya (aṭṭhakathā) > Mūlapaṇṇāsa-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "s0201m.mul.xml",
+    "t": "s0201t.tik.xml"
+  },
+  "s0202a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Majjhima Nikāya (aṭṭhakathā) > Majjhimapaṇṇāsa-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "s0202m.mul.xml",
+    "t": "s0202t.tik.xml"
+  },
+  "s0203a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Majjhima Nikāya (aṭṭhakathā) > Uparipaṇṇāsa-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "s0203m.mul.xml",
+    "t": "s0203t.tik.xml"
+  },
+  "s0301a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Saṃyutta Nikāya (aṭṭhakathā) > Sagāthāvagga-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "s0301m.mul.xml",
+    "t": "s0301t.tik.xml"
+  },
+  "s0302a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Saṃyutta Nikāya (aṭṭhakathā) > Nidānavagga-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "s0302m.mul.xml",
+    "t": "s0302t.tik.xml"
+  },
+  "s0303a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Saṃyutta Nikāya (aṭṭhakathā) > Khandhavagga-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "s0303m.mul.xml",
+    "t": "s0303t.tik.xml"
+  },
+  "s0304a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Saṃyutta Nikāya (aṭṭhakathā) > Saḷāyatanavagga-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "s0304m.mul.xml",
+    "t": "s0304t.tik.xml"
+  },
+  "s0305a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Saṃyutta Nikāya (aṭṭhakathā) > Mahāvagga-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "s0305m.mul.xml",
+    "t": "s0305t.tik.xml"
+  },
+  "s0401a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Aṅguttara Nikāya (aṭṭhakathā) > Ekakanipāta-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "s0401m.mul.xml",
+    "t": "s0401t.tik.xml"
+  },
+  "s0402a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Aṅguttara Nikāya (aṭṭhakathā) > Duka-tika-catukkanipāta-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "s0402m1.mul.xml",
+    "t": "s0402t.tik.xml"
+  },
+  "s0403a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Aṅguttara Nikāya (aṭṭhakathā) > Pañcaka-chakka-sattakanipāta-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "s0403m1.mul.xml",
+    "t": "s0403t.tik.xml"
+  },
+  "s0404a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Aṅguttara Nikāya (aṭṭhakathā) > Aṭṭhakādinipāta-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "s0404m1.mul.xml",
+    "t": "s0404t.tik.xml"
+  },
+  "s0501a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Khuddakapāṭha-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0501m.mul.xml"
+  },
+  "s0502a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Dhammapada-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0502m.mul.xml"
+  },
+  "s0503a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Udāna-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0503m.mul.xml"
+  },
+  "s0504a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Itivuttaka-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0504m.mul.xml"
+  },
+  "s0505a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Suttanipāta-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0505m.mul.xml"
+  },
+  "s0506a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Vimānavatthu-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0506m.mul.xml"
+  },
+  "s0507a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Petavatthu-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0507m.mul.xml"
+  },
+  "s0508a1.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Theragāthā-aṭṭhakathā-1",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0508m.mul.xml"
+  },
+  "s0508a2.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Theragāthā-aṭṭhakathā-2",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0508m.mul.xml"
+  },
+  "s0509a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Therīgāthā-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0509m.mul.xml"
+  },
+  "s0510a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Apadāna-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0510m1.mul.xml"
+  },
+  "s0511a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Buddhavaṃsa-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0511m.mul.xml"
+  },
+  "s0512a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Cariyāpiṭaka-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0512m.mul.xml"
+  },
+  "s0513a1.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Jātaka-aṭṭhakathā-1",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0513m.mul.xml"
+  },
+  "s0513a2.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Jātaka-aṭṭhakathā-2",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0513m.mul.xml"
+  },
+  "s0513a3.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Jātaka-aṭṭhakathā-3",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0513m.mul.xml"
+  },
+  "s0513a4.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Jātaka-aṭṭhakathā-4",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0513m.mul.xml"
+  },
+  "s0514a1.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Jātaka-aṭṭhakathā-5",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0514m.mul.xml"
+  },
+  "s0514a2.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Jātaka-aṭṭhakathā-6",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0514m.mul.xml"
+  },
+  "s0514a3.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Jātaka-aṭṭhakathā-7",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0514m.mul.xml"
+  },
+  "s0515a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Mahāniddesa-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0515m.mul.xml"
+  },
+  "s0516a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Cūḷaniddesa-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0516m.mul.xml"
+  },
+  "s0517a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Paṭisambhidāmagga-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0517m.mul.xml"
+  },
+  "s0519a.att.xml": {
+    "title": "Aṭṭhakathā > Sutta Piṭaka (aṭṭhakathā) > Khuddaka Nikāya (aṭṭhakathā) > Nettippakaraṇa-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "s0519m.mul.xml"
+  },
+  "vin01a.att.xml": {
+    "title": "Aṭṭhakathā > Vinaya Piṭaka (aṭṭhakathā) > Pārājikakaṇḍa-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "vin01m.mul.xml",
+    "t": "vin01t1.tik.xml"
+  },
+  "vin02a1.att.xml": {
+    "title": "Aṭṭhakathā > Vinaya Piṭaka (aṭṭhakathā) > Pācittiya-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "vin02m1.mul.xml",
+    "t": "vin02t.tik.xml"
+  },
+  "vin02a2.att.xml": {
+    "title": "Aṭṭhakathā > Vinaya Piṭaka (aṭṭhakathā) > Mahāvagga-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "vin02m2.mul.xml",
+    "t": "vin02t.tik.xml"
+  },
+  "vin02a3.att.xml": {
+    "title": "Aṭṭhakathā > Vinaya Piṭaka (aṭṭhakathā) > Cūḷavagga-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "vin02m3.mul.xml",
+    "t": "vin02t.tik.xml"
+  },
+  "vin02a4.att.xml": {
+    "title": "Aṭṭhakathā > Vinaya Piṭaka (aṭṭhakathā) > Parivāra-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "vin02m4.mul.xml",
+    "t": "vin02t.tik.xml"
+  },
+  "abh01a.att.xml": {
+    "title": "Aṭṭhakathā > Abhidhamma Piṭaka (aṭṭhakathā) > Dhammasaṅgaṇi-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "m",
+    "m": "abh01m.mul.xml"
+  },
+  "abh02a.att.xml": {
+    "title": "Aṭṭhakathā > Abhidhamma Piṭaka (aṭṭhakathā) > Sammohavinodanī-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "abh02m.mul.xml",
+    "t": "abh02t.tik.xml"
+  },
+  "abh03a.att.xml": {
+    "title": "Aṭṭhakathā > Abhidhamma Piṭaka (aṭṭhakathā) > Pañcapakaraṇa-aṭṭhakathā",
+    "matn": "Atthakatha",
+    "y": "mt",
+    "m": "abh03m1.mul.xml",
+    "t": "abh03t.tik.xml"
+  },
+  "s0101t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Dīgha Nikāya (ṭīkā) > Sīlakkhandhavagga-ṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "s0101m.mul.xml",
+    "a": "s0101a.att.xml"
+  },
+  "s0102t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Dīgha Nikāya (ṭīkā) > Mahāvagga-ṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "s0102m.mul.xml",
+    "a": "s0102a.att.xml"
+  },
+  "s0103t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Dīgha Nikāya (ṭīkā) > Pāthikavagga-ṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "s0103m.mul.xml",
+    "a": "s0103a.att.xml"
+  },
+  "s0104t.nrf.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Dīgha Nikāya (ṭīkā) > Sīlakkhandhavagga-abhinavaṭīkā-1",
+    "matn": "Tika",
+    "y": ""
+  },
+  "s0105t.nrf.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Dīgha Nikāya (ṭīkā) > Sīlakkhandhavagga-abhinavaṭīkā-2",
+    "matn": "Tika",
+    "y": ""
+  },
+  "s0201t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Majjhima Nikāya (ṭīkā) > Mūlapaṇṇāsa-ṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "s0201m.mul.xml",
+    "a": "s0201a.att.xml"
+  },
+  "s0202t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Majjhima Nikāya (ṭīkā) > Majjhimapaṇṇāsa-ṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "s0202m.mul.xml",
+    "a": "s0202a.att.xml"
+  },
+  "s0203t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Majjhima Nikāya (ṭīkā) > Uparipaṇṇāsa-ṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "s0203m.mul.xml",
+    "a": "s0203a.att.xml"
+  },
+  "s0301t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Saṃyutta Nikāya (ṭīkā) > Sagāthāvagga-ṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "s0301m.mul.xml",
+    "a": "s0301a.att.xml"
+  },
+  "s0302t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Saṃyutta Nikāya (ṭīkā) > Nidānavagga-ṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "s0302m.mul.xml",
+    "a": "s0302a.att.xml"
+  },
+  "s0303t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Saṃyutta Nikāya (ṭīkā) > Khandhavagga-ṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "s0303m.mul.xml",
+    "a": "s0303a.att.xml"
+  },
+  "s0304t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Saṃyutta Nikāya (ṭīkā) > Saḷāyatanavagga-ṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "s0304m.mul.xml",
+    "a": "s0304a.att.xml"
+  },
+  "s0305t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Saṃyutta Nikāya (ṭīkā) > Mahāvagga-ṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "s0305m.mul.xml",
+    "a": "s0305a.att.xml"
+  },
+  "s0401t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Aṅguttaranikāya (ṭīkā) > Ekakanipāta-ṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "s0401m.mul.xml",
+    "a": "s0401a.att.xml"
+  },
+  "s0402t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Aṅguttaranikāya (ṭīkā) > Duka-tika-catukkanipāta-ṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "s0402m1.mul.xml",
+    "a": "s0402a.att.xml"
+  },
+  "s0403t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Aṅguttaranikāya (ṭīkā) > Pañcaka-chakka-sattakanipāta-ṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "s0403m1.mul.xml",
+    "a": "s0403a.att.xml"
+  },
+  "s0404t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Aṅguttaranikāya (ṭīkā) > Aṭṭhakādinipāta-ṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "s0404m1.mul.xml",
+    "a": "s0404a.att.xml"
+  },
+  "s0519t.tik.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Khuddakanikāya (ṭīkā) > Nettippakaraṇa-ṭīkā",
+    "matn": "Tika",
+    "y": ""
+  },
+  "s0501t.nrf.xml": {
+    "title": "Ṭīkā > Sutta Piṭaka (ṭīkā) > Khuddakanikāya (ṭīkā) > Nettivibhāvinī",
+    "matn": "Tika",
+    "y": ""
+  },
+  "vin01t1.tik.xml": {
+    "title": "Ṭīkā > Vinayapiṭaka (ṭīkā) > Sāratthadīpanī-ṭīkā-1",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "vin01m.mul.xml",
+    "a": "vin01a.att.xml"
+  },
+  "vin01t2.tik.xml": {
+    "title": "Ṭīkā > Vinayapiṭaka (ṭīkā) > Sāratthadīpanī-ṭīkā-2",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "vin01m.mul.xml",
+    "a": "vin01a.att.xml"
+  },
+  "vin02t.tik.xml": {
+    "title": "Ṭīkā > Vinayapiṭaka (ṭīkā) > Sāratthadīpanī-ṭīkā-3",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "vin02m1.mul.xml",
+    "a": "vin02a1.att.xml"
+  },
+  "vin04t.nrf.xml": {
+    "title": "Ṭīkā > Vinayapiṭaka (ṭīkā) > Dvemātikāpāḷi",
+    "matn": "Tika",
+    "y": ""
+  },
+  "vin05t.nrf.xml": {
+    "title": "Ṭīkā > Vinayapiṭaka (ṭīkā) > Vinayasaṅgaha-aṭṭhakathā",
+    "matn": "Tika",
+    "y": ""
+  },
+  "vin06t.nrf.xml": {
+    "title": "Ṭīkā > Vinayapiṭaka (ṭīkā) > Vajirabuddhi-ṭīkā",
+    "matn": "Tika",
+    "y": ""
+  },
+  "vin07t.nrf.xml": {
+    "title": "Ṭīkā > Vinayapiṭaka (ṭīkā) > Vimativinodanī-ṭīkā",
+    "matn": "Tika",
+    "y": ""
+  },
+  "vin08t.nrf.xml": {
+    "title": "Ṭīkā > Vinayapiṭaka (ṭīkā) > Vinayālaṅkāra-ṭīkā",
+    "matn": "Tika",
+    "y": ""
+  },
+  "vin09t.nrf.xml": {
+    "title": "Ṭīkā > Vinayapiṭaka (ṭīkā) > Kaṅkhāvitaraṇīpurāṇa-ṭīkā",
+    "matn": "Tika",
+    "y": ""
+  },
+  "vin10t.nrf.xml": {
+    "title": "Ṭīkā > Vinayapiṭaka (ṭīkā) > Vinayavinicchaya-uttaravinicchaya",
+    "matn": "Tika",
+    "y": ""
+  },
+  "vin11t.nrf.xml": {
+    "title": "Ṭīkā > Vinayapiṭaka (ṭīkā) > Vinayavinicchaya-ṭīkā",
+    "matn": "Tika",
+    "y": ""
+  },
+  "vin12t.nrf.xml": {
+    "title": "Ṭīkā > Vinayapiṭaka (ṭīkā) > Pācityādiyojanāpāḷi",
+    "matn": "Tika",
+    "y": ""
+  },
+  "vin13t.nrf.xml": {
+    "title": "Ṭīkā > Vinayapiṭaka (ṭīkā) > Khuddasikkhā-mūlasikkhā",
+    "matn": "Tika",
+    "y": ""
+  },
+  "abh01t.tik.xml": {
+    "title": "Ṭīkā > Abhidhamma Piṭaka (ṭīkā) > Dhammasaṅgaṇī-mūlaṭīkā",
+    "matn": "Tika",
+    "y": ""
+  },
+  "abh02t.tik.xml": {
+    "title": "Ṭīkā > Abhidhamma Piṭaka (ṭīkā) > Vibhaṅga-mūlaṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "abh02m.mul.xml",
+    "a": "abh02a.att.xml"
+  },
+  "abh03t.tik.xml": {
+    "title": "Ṭīkā > Abhidhamma Piṭaka (ṭīkā) > Pañcapakaraṇa-mūlaṭīkā",
+    "matn": "Tika",
+    "y": "ma",
+    "m": "abh03m1.mul.xml",
+    "a": "abh03a.att.xml"
+  },
+  "abh04t.nrf.xml": {
+    "title": "Ṭīkā > Abhidhamma Piṭaka (ṭīkā) > Dhammasaṅgaṇī-anuṭīkā",
+    "matn": "Tika",
+    "y": ""
+  },
+  "abh05t.nrf.xml": {
+    "title": "Ṭīkā > Abhidhamma Piṭaka (ṭīkā) > Pañcapakaraṇa-anuṭīkā",
+    "matn": "Tika",
+    "y": ""
+  },
+  "abh06t.nrf.xml": {
+    "title": "Ṭīkā > Abhidhamma Piṭaka (ṭīkā) > Abhidhammāvatāro-nāmarūpaparicchedo",
+    "matn": "Tika",
+    "y": ""
+  },
+  "abh07t.nrf.xml": {
+    "title": "Ṭīkā > Abhidhamma Piṭaka (ṭīkā) > Abhidhammatthasaṅgaho",
+    "matn": "Tika",
+    "y": ""
+  },
+  "abh08t.nrf.xml": {
+    "title": "Ṭīkā > Abhidhamma Piṭaka (ṭīkā) > Abhidhammāvatāra-purāṇaṭīkā",
+    "matn": "Tika",
+    "y": ""
+  },
+  "abh09t.nrf.xml": {
+    "title": "Ṭīkā > Abhidhamma Piṭaka (ṭīkā) > Abhidhammamātikāpāḷi",
+    "matn": "Tika",
+    "y": ""
+  },
+  "e0101n.mul.xml": {
+    "title": "Añña > Visuddhimagga > Visuddhimagga-1",
+    "matn": "Other",
+    "y": "t",
+    "t": "e0103n.att.xml"
+  },
+  "e0102n.mul.xml": {
+    "title": "Añña > Visuddhimagga > Visuddhimagga-2",
+    "matn": "Other",
+    "y": "t",
+    "t": "e0104n.att.xml"
+  },
+  "e0103n.att.xml": {
+    "title": "Añña > Visuddhimagga > Visuddhimagga-mahāṭīkā-1",
+    "matn": "Other",
+    "y": "m",
+    "m": "e0101n.mul.xml"
+  },
+  "e0104n.att.xml": {
+    "title": "Añña > Visuddhimagga > Visuddhimagga-mahāṭīkā-2",
+    "matn": "Other",
+    "y": "m",
+    "m": "e0102n.mul.xml"
+  },
+  "e0105n.nrf.xml": {
+    "title": "Añña > Visuddhimagga > Visuddhimagga-nidānakathā",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0901n.nrf.xml": {
+    "title": "Añña > Saṃgāyana-pucchā Vissajjanā > Dīghanikāya (pu-vi)",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0902n.nrf.xml": {
+    "title": "Añña > Saṃgāyana-pucchā Vissajjanā > Majjhimanikāya (pu-vi)",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0903n.nrf.xml": {
+    "title": "Añña > Saṃgāyana-pucchā Vissajjanā > Saṃyuttanikāya (pu-vi)",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0904n.nrf.xml": {
+    "title": "Añña > Saṃgāyana-pucchā Vissajjanā > Aṅguttaranikāya (pu-vi)",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0905n.nrf.xml": {
+    "title": "Añña > Saṃgāyana-pucchā Vissajjanā > Vinayapiṭaka (pu-vi)",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0906n.nrf.xml": {
+    "title": "Añña > Saṃgāyana-pucchā Vissajjanā > Abhidhammapiṭaka (pu-vi)",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0907n.nrf.xml": {
+    "title": "Añña > Saṃgāyana-pucchā Vissajjanā > Aṭṭhakathā (pu-vi)",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0201n.nrf.xml": {
+    "title": "Añña > Leḍī Sayāḍo Gantha-saṅgaho > Niruttidīpanī",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0301n.nrf.xml": {
+    "title": "Añña > Leḍī Sayāḍo Gantha-saṅgaho > Paramatthadīpanī Saṅgahamahāṭīkāpāṭha",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0401n.nrf.xml": {
+    "title": "Añña > Leḍī Sayāḍo Gantha-saṅgaho > Anudīpanīpāṭha",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0501n.nrf.xml": {
+    "title": "Añña > Leḍī Sayāḍo Gantha-saṅgaho > Paṭṭhānuddesadīpanīpāṭha",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0601n.nrf.xml": {
+    "title": "Añña > Buddha-vandanā Gantha-saṅgaho > Namakkāraṭīkā",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0602n.nrf.xml": {
+    "title": "Añña > Buddha-vandanā Gantha-saṅgaho > Mahāpaṇāmapāṭha",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0603n.nrf.xml": {
+    "title": "Añña > Buddha-vandanā Gantha-saṅgaho > Lakkhaṇāto Buddhathomanāgāthā",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0604n.nrf.xml": {
+    "title": "Añña > Buddha-vandanā Gantha-saṅgaho > Sutavandanā",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0605n.nrf.xml": {
+    "title": "Añña > Buddha-vandanā Gantha-saṅgaho > Jinālaṅkāra",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0606n.nrf.xml": {
+    "title": "Añña > Buddha-vandanā Gantha-saṅgaho > Kamalāñjali",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0607n.nrf.xml": {
+    "title": "Añña > Buddha-vandanā Gantha-saṅgaho > Pajjamadhu",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0608n.nrf.xml": {
+    "title": "Añña > Buddha-vandanā Gantha-saṅgaho > Buddhaguṇagāthāvalī",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0701n.nrf.xml": {
+    "title": "Añña > Vaṃsa-gantha-saṅgaho > Cūḷaganthavaṃsa",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0702n.nrf.xml": {
+    "title": "Añña > Vaṃsa-gantha-saṅgaho > Sāsanavaṃsa",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0703n.nrf.xml": {
+    "title": "Añña > Vaṃsa-gantha-saṅgaho > Mahāvaṃsa",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0801n.nrf.xml": {
+    "title": "Añña > Byākaraṇa Gantha-saṅgaho > Moggallānabyākaraṇaṃ",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0802n.nrf.xml": {
+    "title": "Añña > Byākaraṇa Gantha-saṅgaho > Kaccāyanabyākaraṇaṃ",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0803n.nrf.xml": {
+    "title": "Añña > Byākaraṇa Gantha-saṅgaho > Saddanītippakaraṇaṃ (padamālā)",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0804n.nrf.xml": {
+    "title": "Añña > Byākaraṇa Gantha-saṅgaho > Saddanītippakaraṇaṃ (dhātumālā)",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0805n.nrf.xml": {
+    "title": "Añña > Byākaraṇa Gantha-saṅgaho > Padarūpasiddhi",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0806n.nrf.xml": {
+    "title": "Añña > Byākaraṇa Gantha-saṅgaho > Mogallānapañcikā",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0807n.nrf.xml": {
+    "title": "Añña > Byākaraṇa Gantha-saṅgaho > Payogasiddhipāṭha",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0808n.nrf.xml": {
+    "title": "Añña > Byākaraṇa Gantha-saṅgaho > Vuttodayapāṭha",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0809n.nrf.xml": {
+    "title": "Añña > Byākaraṇa Gantha-saṅgaho > Abhidhānappadāpikāpāṭha",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0810n.nrf.xml": {
+    "title": "Añña > Byākaraṇa Gantha-saṅgaho > Abhidhānappadāpikāṭīkā",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0811n.nrf.xml": {
+    "title": "Añña > Byākaraṇa Gantha-saṅgaho > Subodhālaṅkārapāṭha",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0812n.nrf.xml": {
+    "title": "Añña > Byākaraṇa Gantha-saṅgaho > Subodhālaṅkāraṭīkā",
+    "matn": "Other",
+    "y": ""
+  },
+  "e0813n.nrf.xml": {
+    "title": "Añña > Byākaraṇa Gantha-saṅgaho > Bālāvatāra Gaṇṭhipadatthavinicchayasāra",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1001n.nrf.xml": {
+    "title": "Añña > Nīti-gantha-saṅgaho > Kavidappaṇanīti",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1002n.nrf.xml": {
+    "title": "Añña > Nīti-gantha-saṅgaho > Nītimañjarī",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1003n.nrf.xml": {
+    "title": "Añña > Nīti-gantha-saṅgaho > Dhammanīti",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1004n.nrf.xml": {
+    "title": "Añña > Nīti-gantha-saṅgaho > Mahārahanīti",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1005n.nrf.xml": {
+    "title": "Añña > Nīti-gantha-saṅgaho > Lokanīti",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1006n.nrf.xml": {
+    "title": "Añña > Nīti-gantha-saṅgaho > Suttantanīti",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1007n.nrf.xml": {
+    "title": "Añña > Nīti-gantha-saṅgaho > Sūrassatinīti",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1008n.nrf.xml": {
+    "title": "Añña > Nīti-gantha-saṅgaho > Cāṇakyanīti",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1009n.nrf.xml": {
+    "title": "Añña > Nīti-gantha-saṅgaho > Naradakkhadīpanī",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1010n.nrf.xml": {
+    "title": "Añña > Nīti-gantha-saṅgaho > Caturārakkhadīpanī",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1101n.nrf.xml": {
+    "title": "Añña > Pakiṇṇaka-gantha-saṅgaho > Rasavāhinī",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1102n.nrf.xml": {
+    "title": "Añña > Pakiṇṇaka-gantha-saṅgaho > Sīmavisodhanīpāṭha",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1103n.nrf.xml": {
+    "title": "Añña > Pakiṇṇaka-gantha-saṅgaho > Vessantaragīti",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1201n.nrf.xml": {
+    "title": "Añña > Sihaḷa-gantha-saṅgaho > Moggallāna Vuttivivaraṇapañcikā",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1202n.nrf.xml": {
+    "title": "Añña > Sihaḷa-gantha-saṅgaho > Thūpavaṃsa",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1203n.nrf.xml": {
+    "title": "Añña > Sihaḷa-gantha-saṅgaho > Dāṭhavaṃsa",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1204n.nrf.xml": {
+    "title": "Añña > Sihaḷa-gantha-saṅgaho > Dhātupāṭhavilāsiniyā",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1205n.nrf.xml": {
+    "title": "Añña > Sihaḷa-gantha-saṅgaho > Dhātuvaṃsa",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1206n.nrf.xml": {
+    "title": "Añña > Sihaḷa-gantha-saṅgaho > Hatthavanagallavihāravaṃsa",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1207n.nrf.xml": {
+    "title": "Añña > Sihaḷa-gantha-saṅgaho > Jinacaritaya",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1208n.nrf.xml": {
+    "title": "Añña > Sihaḷa-gantha-saṅgaho > Jinavaṃsadīpaṃ",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1209n.nrf.xml": {
+    "title": "Añña > Sihaḷa-gantha-saṅgaho > Telakaṭāhagāthā",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1210n.nrf.xml": {
+    "title": "Añña > Sihaḷa-gantha-saṅgaho > Milidaṭīkā",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1211n.nrf.xml": {
+    "title": "Añña > Sihaḷa-gantha-saṅgaho > Padamañjarī",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1212n.nrf.xml": {
+    "title": "Añña > Sihaḷa-gantha-saṅgaho > Padasādhanaṃ",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1213n.nrf.xml": {
+    "title": "Añña > Sihaḷa-gantha-saṅgaho > Saddabindupakaraṇaṃ",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1214n.nrf.xml": {
+    "title": "Añña > Sihaḷa-gantha-saṅgaho > Kaccāyanadhātumañjusā",
+    "matn": "Other",
+    "y": ""
+  },
+  "e1215n.nrf.xml": {
+    "title": "Añña > Sihaḷa-gantha-saṅgaho > Sāmantakūṭavaṇṇanā",
+    "matn": "Other",
+    "y": ""
+  }
+}
