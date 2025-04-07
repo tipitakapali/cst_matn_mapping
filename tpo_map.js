@@ -38,7 +38,7 @@ function fromToThisPaliScr2Char(paliText, fromScript = "hi", targetScript = "ro"
   return toTitleCase(CVT.TextProcessor.convertFromSinh(sinh, CVT.Script[targetScript.toUpperCase()]))
 }
 
-function saveJsonTpo(includeNavTitle = false) {
+function saveJsonTpo(includeNavTitle = false, min = false) {
   try {
     const temp2_filename = path.join(OUTPUTDIR, "temp2_filename.json")
 
@@ -92,15 +92,36 @@ function saveJsonTpo(includeNavTitle = false) {
 
     // add some manual mappings
     const finalMap = manualMapping(mapping)
-    const updatedBook2Data = JSON.stringify(finalMap, null, 2)
 
-    const jsFilename = path.join(OUTPUTDIR, "tpo_map.json")
+    let updatedBook2Data = {}
+    let saveFileName = "tpo_map.json"
+
+    if (min) {
+      console.log("\nSaving minified version")
+      saveFileName = "tpo_map_min.json"
+      deleteSomeKeysInValues(finalMap, ["matn", "y"])
+      updatedBook2Data = JSON.stringify(finalMap, null)
+    } else {
+      updatedBook2Data = JSON.stringify(finalMap, null, 2)
+    }
+
+    const jsFilename = path.join(OUTPUTDIR, saveFileName)
 
     fs.writeFileSync(jsFilename, updatedBook2Data, "utf8")
 
     console.log(`${jsFilename}: saved successfully.`)
   } catch (error) {
     console.error(`Error processing ${temp2_filename}:`, error)
+  }
+}
+
+function deleteSomeKeysInValues(dictObj, keys = ["matn", "y"]) {
+  for (const [key, value] of Object.entries(dictObj)) {
+    for (const k of keys) {
+      if (value.hasOwnProperty(k)) {
+        delete value[k]
+      }
+    }
   }
 }
 
@@ -124,4 +145,5 @@ function manualMapping(mapping) {
   return mapping
 }
 
-saveJsonTpo((includeNavTitle = true))
+saveJsonTpo(true)
+saveJsonTpo(false, true)
